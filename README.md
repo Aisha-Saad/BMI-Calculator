@@ -1,3 +1,3 @@
 # BMI-Calculator
 
- https://aishasaad91.github.io/BMI-Calculator/
+https://aisha-saad.github.io/BMI-Calculator/
